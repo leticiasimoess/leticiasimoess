@@ -1,5 +1,7 @@
 👋Olá!, eu sou a Leticia Simões
 
+🎓 Cursando-Analise e desenvolvimento de sistemas //  Programacao Front-End
+
 🌱 Atualmente estou aprendendo Js//React/HTML/CSS/C
 
 <div align="center">

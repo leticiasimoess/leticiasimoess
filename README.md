@@ -2,7 +2,7 @@
 
 🎓 Cursando-Analise e desenvolvimento de sistemas //  Programacao Front-End
 
-🌱 Atualmente estou aprendend: Js,React,CSS,HTML,C
+🌱  Estudando: html,css,react,c,js
 
 <div align="center">
     <a href="https://github.com/leticiasimoess">

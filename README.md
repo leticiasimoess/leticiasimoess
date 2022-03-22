@@ -1,6 +1,6 @@
 👋Olá!, eu sou a Leticia Simões
 
-🌱  Estudando: html,css,react,c,js
+🌱  Estudand: HTML/CSS/JS/BOOTSTRAP/REACT/C,C#/
 
 <div align="center">
     <a href="https://github.com/leticiasimoess">

@@ -1,1 +1,3 @@
-![Leticia Simoes GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiasimoess&theme=gruvbox&show_icons=true)
+## Oiii! Eu sou a Leticia Simões
+  <a href="https://github.com/leticiasimoess">
+  

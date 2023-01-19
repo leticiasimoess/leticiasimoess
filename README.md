@@ -28,5 +28,6 @@
   <a href="https://www.linkedin.com/in/leesimoes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/leticiasimoess/leticiasimoess/blob/output/github-contribution-grid-snake.svg)
+ [![.github/workflows/blank.yml](https://github.com/leticiasimoess/leticiasimoess/actions/workflows/blank.yml/badge.svg?event=workflow_run)](https://github.com/leticiasimoess/leticiasimoess/actions/workflows/blank.yml)
  
 </div>

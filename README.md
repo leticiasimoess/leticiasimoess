@@ -1,32 +1,36 @@
-## Oiii! Eu sou a Leticia Simões
- <div>
-  <a href="https://github.com/leticiasimoess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiasimoess&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasimoess&layout=compact&langs_count=16&theme=swift"/>
-</div>
-<a href="https://github.com/leticiasimoess/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiasimoess&repo=github-readme-stats&theme=" />
-</a>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Le-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Le-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Le-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Le-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Le-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Le-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Le-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Le-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+### Helloo, I am Leticia!!!✌️😁
 
-</div>
+- 📚 I’m currently working on Vai na Web as Front-end Facilitator!!
+- 🎓 Undergraduate student at Universidade Paulista in Systems Analysis and Development
+- 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, C, C#, Styled-Components and ReactJS
+- 💻 I’m currently learning Angular, PHP, banco de dados.
+
+## 🛠 &nbsp;Tecnologies:
+
+<div>
+ <img align="center" alt="HTML badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="NodeJS"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+    <img align="center" alt="C badge" src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=c&logoColor=gray">
   
-  ##
-<div> 
-  
-  <a href="https://instagram.com/simoes_lee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
-  <a href = "mailto:leticiasimoes16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leesimoes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
+    <img align="center" alt="React.js badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Styled-components badge" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img align="center" alt="Sass badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+   <img align="center" alt="Git badge" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+   <img aling="center" alt="Bootstrap badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
+
+<br>
+<br> 
+
+<div align="center">
+    <a href="https://github.com/leticiasimoess">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiasimoess&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasimoess&layout=compact&langs_count=16&theme=swift"/>
+      </div>
+
+
+  ![Snake animation](https://github.com/leticiasimoess/leticiasimoess/blob/output/github-contribution-grid-snake.svg)
+  
+https://github-readme-stats.vercel.app/api?username=[leticiasimoess]

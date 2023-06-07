@@ -1,6 +1,6 @@
 ### Helloo, I am Leticia!!!✌️😁
 
-- 🎓 Undergraduate stUndergraduate Student at Universidade Paulista in Systems Analysis and Development
+- 🎓 Aluna de Graduação da Universidade Paulista em Análise e Desenvolvimento de Sistemas
 - 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, C, C#, Styled-Components and ReactJS
 - 💻 I’m currently learning Angular, PHP, banco de dados.
 

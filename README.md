@@ -14,11 +14,11 @@
     <img align="center" alt="NodeJS"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
     <img align="center" alt="C badge" src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=c&logoColor=gray"/>
   
-    <img align="center" alt="React.js badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="React badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Styled-components badge" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img align="center" alt="Sass badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
    <img align="center" alt="Git badge" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-   <img aling="center" alt="Bootstrap badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+   <img align="center" alt="Bootstrap badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
 <br>
@@ -33,5 +33,5 @@
 
   ![Snake animation](https://github.com/leticiasimoess/leticiasimoess/blob/output/github-contribution-grid-snake.svg)
   
-https://github-readme-stats.vercel.app/api?username=[leticiasimoess]
+https://github-readme-stats.vercel.app/api?username=[leticiasimoes]
 

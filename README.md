@@ -1,6 +1,5 @@
 ### Helloo, I am Leticia!!!✌️😁
 
-- 📚 I’m currently working on Vai na Web as Front-end Facilitator!!
 - 🎓 Undergraduate student at Universidade Paulista in Systems Analysis and Development
 - 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, C, C#, Styled-Components and ReactJS
 - 💻 I’m currently learning Angular, PHP, banco de dados.

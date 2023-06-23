@@ -1,7 +1,7 @@
 ### Helloo, I am Leticia!!!✌️😁
 
 - 🎓 Aluna de Graduação da Universidade Paulista em Análise e Desenvolvimento de Sistemas  - UNIP
-- 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, C, C#, Styled-Components and ReactJS
+- 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, C, Styled-Components and ReactJS
 - 💻 I’m currently learning Angular, PHP, banco de dados.
 
 ## 🛠 &nbsp;Tecnologies:

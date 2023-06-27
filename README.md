@@ -1,6 +1,7 @@
 ### Helloo, I am Leticia!!!✌️😁
 
-- 🎓 Aluna de Graduação da Universidade Paulista em Análise e Desenvolvimento de Sistemas  - UNIP
+- 🎓 Undergraduate student at Universidade Paulista in Systems Analysis and Development - UNIP
+- 💡 I like to explore new trends and learn new technologies.
 - 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, C, Styled-Components and ReactJS
 - 💻 I’m currently learning Angular, PHP, banco de dados.
 

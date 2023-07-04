@@ -90,7 +90,7 @@
 
 <br>
 
-## <img src="images/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
+## <img src="imagens/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 
 <div align="center">
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=EvanderInacio&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>

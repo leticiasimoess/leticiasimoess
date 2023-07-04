@@ -1,4 +1,4 @@
-<img src="imagens/gato.gif" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
+## <img src="imagens/gato_astronauta.gif" width="50" height="50" align="10">  &
 
 ### Helloo, I am Leticia!!!✌️😁
 

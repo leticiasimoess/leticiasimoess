@@ -44,7 +44,7 @@
         
 
 ## <img src="/gato.gif" width="50" align="center"> &nbsp;My Commits
-![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](/github-contribution-grid-snake.svg)
 
 ----
 

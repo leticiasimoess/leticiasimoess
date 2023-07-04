@@ -1,5 +1,5 @@
 
-
+## <img src="imagens/gato.gif" width="50" height="50" align="10"> 
 ### Helloo, I am Leticia!!!✌️😁
 
 - 🎓 Undergraduate student(a) at Universidade Paulista in Systems Analysis and Development - UNIP
@@ -7,7 +7,7 @@
 - 💡 I like to explore new trends and learn new technologies.
 - 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, C, Styled-Components and ReactJS
 - 💻 I’m currently learning Angular, PHP, banco de dados.
-## <img src="imagens/gato_astronauta.gif" width="50" height="50" align="10"> 
+
 ## 🛠 &nbsp;Tecnologies:
 
 <div>

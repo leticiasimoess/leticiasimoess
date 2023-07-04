@@ -1,8 +1,8 @@
-
+<img src="/gato.png" min-width="400px" max-width="450px" width="400px" align="right" alt="gato">
 
 ### Helloo, I am Leticia!!!✌️😁
 
-- 🎓 Undergraduate student(a) at Universidade Paulista in Systems Analysis and Development - UNIP
+- 🎓 Undergraduate student at Universidade Paulista in Systems Analysis and Development - UNIP
 - 📚 Student(a) of the VAI NA WEB program
 - 💡 I like to explore new trends and learn new technologies.
 - 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, C, Styled-Components and ReactJS

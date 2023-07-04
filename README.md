@@ -1,4 +1,4 @@
-![gato](https://github.com/leticiasimoess/leticiasimoess/assets/84276913/46c56471-8395-4f52-b3d9-7514c8a38205)
+
 
 ### Helloo, I am Leticia!!!✌️😁
 

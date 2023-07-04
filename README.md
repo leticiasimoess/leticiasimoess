@@ -1,6 +1,6 @@
 
 
-<img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
+<img src="imagens/gato.gif" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
 <h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Evander Inácio
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 

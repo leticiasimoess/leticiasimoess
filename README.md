@@ -32,6 +32,7 @@
 </div>
 
 <br>
+
 <br>
 
 <div align="center">
@@ -41,3 +42,11 @@
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasimoess&layout=compact&langs_count=16&theme=swift" />
 </div>
+        
+## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
+![Snake animation](https://github.com/leticiasimoess/leticiasimoess/blob/output/github-contribution-grid-snake.svg)
+
+----
+
+ 
+

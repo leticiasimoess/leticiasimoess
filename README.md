@@ -1,5 +1,5 @@
 
-## <img src="imagens/gato.gif" width="50" height="50" align="10"> 
+<img src="imagens/gato.gif" width="50" align="center"> 
 ### Helloo, I am Leticia!!!✌️😁
 
 - 🎓 Undergraduate student(a) at Universidade Paulista in Systems Analysis and Development - UNIP

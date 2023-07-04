@@ -33,8 +33,7 @@
 
 <br>
 
-<br>
-
+## <img src="/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 <div align="center">
     <a href="https://github.com/leticiasimoess">
         <img height="180em"
@@ -44,9 +43,12 @@
 </div>
         
 
-![Snake animation]
+## <img src="/gato.gif" width="50" align="center"> &nbsp;My Commits
+![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
 
 ----
+
+ 
 
  
 

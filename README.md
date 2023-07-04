@@ -5,8 +5,8 @@
 - 🎓 Undergraduate student at Universidade Paulista in Systems Analysis and Development - UNIP
 - 📚 Student(a) of the VAI NA WEB program
 - 💡 I like to explore new trends and learn new technologies.
-- 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, C, Styled-Components and ReactJS
-- 💻 I’m currently learning Angular, PHP, banco de dados.
+- 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, nodeJS C, Styled-Components and Bootstrap.
+- 💻 I’m currently learning ReactJS, PHP, banco de dados.
 
 ## 🛠 &nbsp;Tecnologies:
 

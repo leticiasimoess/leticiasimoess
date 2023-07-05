@@ -5,8 +5,8 @@
 - 🎓 Undergraduate student at Universidade Paulista in Systems Analysis and Development - UNIP
 - 📚 Student(a) of the VAI NA WEB program
 - 💡 I like to explore new trends and learn new technologies.
-- 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, nodeJS C, Styled-Components and Bootstrap.
-- 💻 I’m currently learning ReactJS, PHP, banco de dados.
+- 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, nodeJS, C, Styled-Components and Bootstrap.
+- 💻 I’m currently learning React, PHP, banco de dados.
 
 ## 🛠 &nbsp;Tecnologies:
 
@@ -28,7 +28,7 @@
     <img align="center" alt="Git badge"
         src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="Bootstrap badge"
-        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=purple" />
 </div>
 
 <br>

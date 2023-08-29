@@ -36,14 +36,17 @@
 <br>
 
 ## <img src="/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
-<div align="center">
-    <a href="https://github.com/leticiasimoess">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=leticiasimoess&show_icons=true&theme=swift&include_all_commits=true&count_private=true" />
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasimoess&layout=compact&langs_count=16&theme=swift" />
-</div>
-        
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasimoess&show_icons=true&hide_title=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&langs_count=10&exclude_repo=HardEasy,vault"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/?username=leticiasimoess&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+  </a>
+</p>
 
 ## <img src="/gato.gif" width="50" align="center"> &nbsp;My Commits
 ![Snake animation](/github-contribution-grid-snake.svg)

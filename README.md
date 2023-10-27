@@ -2,7 +2,7 @@
 
 ### Helloo, I am Leticia!!!✌️😁
 
-- 🎓 Undergraduate Systems Analysis and Development at Universidade Paulista - UNIP.
+- 🎓 Graduated in Systems Analysis and Development at Universidade Paulista - UNIP.
 - 📚 Student of the VAI NA WEB program. 
 - 💡 I like to explore new trends and learn new technologies.
 - 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, nodeJS, C, Styled-Components and Bootstrap.

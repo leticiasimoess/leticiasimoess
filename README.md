@@ -6,7 +6,11 @@
 - 📚 Student of the VAI NA WEB program. 
 - 💡 I like to explore new trends and learn new technologies.
 - 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, nodeJS, C, Styled-Components and Bootstrap.
-- 💻 I’m currently learning React, banco de dados.
+- 💻 I’m currently learning React, TypeScript, Banco de dados.
+
+## Spotify Playing 🎧
+
+[![Spotify](https://github-spotify.d10g3n3s.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/7KZxt34QOPGBDIeZvN9W9g?si=3f70cc6ca50a4a61)
 
 ## <img src="/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 <p align="center">

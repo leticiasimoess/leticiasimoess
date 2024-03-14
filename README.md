@@ -8,8 +8,6 @@
 - 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, nodeJS, C, Styled-Components and Bootstrap.
 - 💻 I’m currently learning React, banco de dados.
 
-- https://letciasimoess.vercel.app/
-
 ## <img src="/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">

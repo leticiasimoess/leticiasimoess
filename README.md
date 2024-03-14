@@ -11,6 +11,7 @@
 ## Spotify Playing 🎧
 
 [![Spotify](https://github-spotify.d10g3n3s.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/7KZxt34QOPGBDIeZvN9W9g?si=3f70cc6ca50a4a61)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3luZc2OdrD859Og396NWS1?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## <img src="/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 <p align="center">

@@ -8,10 +8,6 @@
 - 🚀 I’m always practicing HTML5, CSS, Sass, JavaScript, nodeJS, C, Styled-Components and Bootstrap.
 - 💻 I’m currently learning React, TypeScript, Banco de dados.
 
-## Spotify Playing 🎧
-
-[![<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7KZxt34QOPGBDIeZvN9W9g?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>]](https://open.spotify.com/intl-pt/track/7KZxt34QOPGBDIeZvN9W9g?si=3f70cc6ca50a4a61)
-
 
 ## <img src="/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 <p align="center">

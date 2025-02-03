@@ -22,11 +22,6 @@
   </a>
 </p>
 
-## <img src="/gato.gif" width="50" align="center"> &nbsp;My Commits
-![Snake animation](/github-contribution-grid-snake.svg)
-
-----
-
  
 
  

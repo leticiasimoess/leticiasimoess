@@ -10,17 +10,7 @@
 
 
 ## <img src="/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasimoess&show_icons=true&hide_title=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&langs_count=10&exclude_repo=HardEasy,vault"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/?username=leticiasimoess&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </a>
-</p>
 
  
 

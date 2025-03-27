@@ -1,8 +1,7 @@
 <img src="/gato.gif" min-width="400px" max-width="450px" width="400px" align="right" alt="gato">
 
-### Hello, I am Leticia
+### Hello, I am Leticia Simões
 
-**About me**
 - 🎓 Graduated in **Systems Analysis and Development** at Universidade Paulista - UNIP.
 - 📚 Currently enrolled in the **VAI NA WEB** program.
 - 💡 Passionate about exploring new trends and learning innovative technologies.

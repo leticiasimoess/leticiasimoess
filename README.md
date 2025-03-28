@@ -1,46 +1,62 @@
+<div> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e59c8&height=120&section=header"/>
+</div>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Parkinsans&weight=500&pause=500&color=ff52c8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Letícia+Simoes+❤👩‍💻;Tenho+24+anos.;Sejam+Bem+Vindos!+😊)](https://git.io/typing-svg)
+
+## Sobre Mim
+
 <img src="/gato.gif" min-width="400px" max-width="450px" width="400px" align="right" alt="gato">
 
-### Hello, I am Leticia Simões
 
-- 🎓 Graduated in **Systems Analysis and Development** at Universidade Paulista - UNIP.
-- 📚 Currently enrolled in the **VAI NA WEB** program.
-- 💡 Passionate about exploring new trends and learning innovative technologies.
-- 🚀 I constantly practice **Sass**, **JavaScript**, and  **React**.
-- 💻 Currently learning  **TypeScript**, **MySQL**, and **Python**.
-- ⚡ Fun Fact I love exploring new front-end technologies and have a knack for making pixel-perfect designs!
+Sou apaixonada por tecnologia pela programação . Tenho me dedicado a aprender e evoluir constantemente nesta área. 💖
 
-  
-<br>
-<p align="center">
-<code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>   
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="styled-components" src="https://raw.githubusercontent.com/github/explore/main/topics/styled-components/styled-components.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-
-</p>
- <img src="/gato_astronauta.gif" width="50" height="50" align="10"> &nbsp; GitHub Analytics
- 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiasimoess&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leticia github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasimoess&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+- 🎓 **Graduada em Análise e Desenvolvimento de Sistemas** pela Universidade Paulista - UNIP.
+- 📚 Atualmente, estou matriculada no programa **VAI NA WEB**.
+- 💡 Apaixonada por explorar novas tendências e aprender tecnologias inovadoras.
+- ⚡ Fato interessante: adoro explorar novas tecnologias de front-end e tenho uma habilidade especial para criar designs perfeitos!
 
 
-#### Top Repositories
+## 📍 Me encontre
 
-<a href="https://github.com/leticiasimoess/Portifolio-atualizado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiasimoess&repo=Portifolio-atualizado&theme=buefy" />
-</a>
-<a href="https://github.com/leticiasimoess/API-vai-no-livro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiasimoess&repo=API-vai-no-livro&theme=buefy" />
-</a>
+<div style="display: flex; justify-content: center;">
+  <a target="_blank" href="https://leticiasimoess-portfolio.vercel.app/" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/Meu_Portfolio-d1009b?style=for-the-badge&logo=windows-xp&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/leticiasimoess" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a target="_blank" href="https://www.instagram.com/leticiasimoess/" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-<br />
-<br />
+## 👩🏻‍💻 Tecnologias que eu tenho conhecimento
 
+<div>
+   <img align="center" alt="Logo HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" alt="Logo CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img align="center" alt="Logo JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img align="center" alt="Logo React.JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img align="center" alt="Logo Styled-components" src="https://img.shields.io/badge/styled--components-d10040?style=for-the-badge&logo=styled-components&logoColor=white" /> 
+   <img align="center" alt="Logo Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
+</div>
 
+## 📚 Tecnologias que eu estou aprendendo
+
+<div>
+ <img align="center" alt="Logo Python" src="https://img.shields.io/badge/python-006ac2?style=for-the-badge&logo=python&logoColor=ffdd54" />  
+ <img align="center" alt="Logo MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />  
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=leticiasimoess&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasimoess&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e59c8&height=120&section=footer"/>
+</div>

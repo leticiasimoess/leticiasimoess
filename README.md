@@ -7,7 +7,7 @@
 
 ## Sobre Mim
 
-<img src="/gato.gif" min-width="400px" max-width="450px" width="400px" align="right" alt="gato">
+<img src="/gato.gif" min-width="400px" max-width="300px" width="250px" align="right" alt="gato">
 
 
 Sou apaixonada por tecnologia pela programação . Tenho me dedicado a aprender e evoluir constantemente nesta área. 💖
@@ -15,19 +15,18 @@ Sou apaixonada por tecnologia pela programação . Tenho me dedicado a aprender 
 - 🎓 **Graduada em Análise e Desenvolvimento de Sistemas** pela Universidade Paulista - UNIP.
 - 📚 Atualmente, estou matriculada no programa **VAI NA WEB**.
 - 💡 Apaixonada por explorar novas tendências e aprender tecnologias inovadoras.
-- ⚡ Fato interessante: adoro explorar novas tecnologias de front-end e tenho uma habilidade especial para criar designs perfeitos!
 
 
 ## 📍 Me encontre
 
 <div style="display: flex; justify-content: center;">
-  <a target="_blank" href="https://leticiasimoess-portfolio.vercel.app/" style="text-decoration: none;">
+  <a target="_blank" href="[https://leticiasimoess-portfolio.vercel.app/](https://leticiasimoes.vercel.app/)" style="text-decoration: none;">
     <img align="center" src="https://img.shields.io/badge/Meu_Portfolio-d1009b?style=for-the-badge&logo=windows-xp&logoColor=white" />
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/leticiasimoess" style="text-decoration: none;">
+  <a target="_blank" href="https://www.linkedin.com/in/leesimoes" style="text-decoration: none;">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a target="_blank" href="https://www.instagram.com/leticiasimoess/" style="text-decoration: none;">
+   <a target="_blank" href="https://www.instagram.com/simoeslee/" style="text-decoration: none;">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
@@ -53,9 +52,19 @@ Sou apaixonada por tecnologia pela programação . Tenho me dedicado a aprender 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=leticiasimoess&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasimoess&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=leticiasimoess&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasimoess&layout=compact&langs_count=7&theme=buefy"/>
 </div>
+
+#### Top Repositories
+
+<a href="https://github.com/leticiasimoess/Portifolio-atualizado">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiasimoess&repo=Portifolio-atualizado&theme=buefy" />
+</a>
+<a href="https://github.com/leticiasimoess/API-vai-no-livro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiasimoess&repo=API-vai-no-livro&theme=buefy" />
+</a>
+
 
 <div> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e59c8&height=120&section=footer"/>

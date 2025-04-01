@@ -1,9 +1,4 @@
-<div> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e59c8&height=120&section=header"/>
-</div>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Parkinsans&weight=500&pause=500&color=ff52c8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Letícia+Simoes+❤👩‍💻;Tenho+24+anos.;Sejam+Bem+Vindos!+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Parkinsans&weight=500&pause=500&color=ff52c8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Letícia+Simões+❤👩‍💻;Sejam+Bem+Vindos!+😊)](https://git.io/typing-svg)
 
 ## 🌟 Sobre Mim
 
@@ -20,7 +15,7 @@ Sou apaixonada por tecnologia pela programação . Tenho me dedicado a aprender 
 ## 📍 Me encontre
 
 <div style="display: flex; justify-content: center;">
-  <a target="_blank" href="[https://leticiasimoess-portfolio.vercel.app/](https://leticiasimoes.vercel.app/)" style="text-decoration: none;">
+  <a target="_blank" href="https://leticiasimoes.vercel.app/" style="text-decoration: none;">
     <img align="center" src="https://img.shields.io/badge/Meu_Portfolio-d1009b?style=for-the-badge&logo=windows-xp&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/leesimoes" style="text-decoration: none;">
@@ -70,8 +65,3 @@ Sou apaixonada por tecnologia pela programação . Tenho me dedicado a aprender 
 <a href="https://github.com/leticiasimoess/API-vai-no-livro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiasimoess&repo=API-vai-no-livro&theme=buefy" />
 </a>
-
-
-<div> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e59c8&height=120&section=footer"/>
-</div>

@@ -8,7 +8,7 @@
 Sou apaixonada por tecnologia pela programação . Tenho me dedicado a aprender e evoluir constantemente nesta área. 💖
 
 - 🎓 **Graduada em Análise e Desenvolvimento de Sistemas** pela Universidade Paulista - UNIP.
-- 📚 Atualmente, estou matriculada no programa **Vai na Web - FullStack**.
+- 📚 Atualmente, estou matriculada no programa **Vai na Web - Cybersegurança**.
 - 🚀 Busco meu primeiro emprego como desenvolvedora e estou focada em aprender novas tecnologias. A cada desafio, me empenho em crescer, aprimorar minhas habilidades e contribuir para projetos inovadores na área de programação.
 
 

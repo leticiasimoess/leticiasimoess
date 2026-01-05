@@ -5,7 +5,7 @@
 <img src="/gato.gif" min-width="400px" max-width="300px" width="250px" align="right" alt="gato">
 
 
-Sou apaixonada por tecnologia pela programação . Tenho me dedicado a aprender e evoluir constantemente nesta área. 💖
+Tenho me dedicado a aprender e evoluir constantemente nesta área. 💖
 
 - 🎓 **Graduada em Análise e Desenvolvimento de Sistemas** pela Universidade Paulista - UNIP.
 - 📚 Atualmente, estou matriculada no programa **Vai na Web - Cybersegurança**.
